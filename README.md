@@ -6,7 +6,7 @@ This weeks challenge was for us to use our knowledge on all things JavaScript to
 
 ## Installation
 
-Link to Website: 
+Link to Website: https://aipuameh.github.io/Random-Password-Generator/
 
 ## Usage
 
