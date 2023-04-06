@@ -7,6 +7,8 @@ This weeks challenge was for us to use our knowledge on all things JavaScript to
 ## Installation
 
 Link to Website: https://aipuameh.github.io/Random-Password-Generator/
+<img width="1435" alt="Screenshot 2023-04-06 at 6 12 39 PM" src="https://user-images.githubusercontent.com/110988589/230503348-ea786636-a71e-4f40-aedc-0560e81859ac.png">
+
 
 ## Usage
 
